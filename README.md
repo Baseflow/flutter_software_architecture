@@ -21,7 +21,7 @@ in the root of the repository:
 ```shell
 docsify serve docs
 ```
-Preview the site in a browser using the address: http://localhost:3000
+Preview the site in a browser using the address: http://localhost:3000.
 
 For more information on [Docsify][1] checkout their [documentation page][2]. 
 
