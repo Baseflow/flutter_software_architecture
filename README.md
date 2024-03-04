@@ -1,4 +1,4 @@
-# The Baseflow Application Architecture for Flutter application.
+# The Baseflow Software Architecture for Flutter application.
 
 The goal of this repository is to describe Baseflow's ideal architecture of 
 Flutter applications through documentation and working examples.
